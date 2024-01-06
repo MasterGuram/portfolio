@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.3634c305.css",
-    "main.js": "/portfolio/static/js/main.0a054073.js",
+    "main.js": "/portfolio/static/js/main.ff03fdc1.js",
     "static/media/p_2.png": "/portfolio/static/media/p_2.e3a0c1d9f9024a81bf0a.png",
     "static/media/p_1.png": "/portfolio/static/media/p_1.c239501750e5266575d8.png",
+    "static/media/CarLease.jpg": "/portfolio/static/media/CarLease.971a8f29e9c7096643a7.jpg",
     "static/media/bananas.png": "/portfolio/static/media/bananas.f929ef71449fc21a20ce.png",
     "static/media/gb2.png": "/portfolio/static/media/gb2.3200021efdbfe8e7ac2e.png",
-    "static/media/Rock.png": "/portfolio/static/media/Rock.19174fad1c84c745297e.png",
     "static/media/Tips_Calculator.png": "/portfolio/static/media/Tips_Calculator.7d5fcea6161e4be5ae86.png",
     "static/media/react-240.png": "/portfolio/static/media/react-240.a735267992861f02c8f2.png",
     "index.html": "/portfolio/index.html",
     "main.3634c305.css.map": "/portfolio/static/css/main.3634c305.css.map",
-    "main.0a054073.js.map": "/portfolio/static/js/main.0a054073.js.map"
+    "main.ff03fdc1.js.map": "/portfolio/static/js/main.ff03fdc1.js.map"
   },
   "entrypoints": [
     "static/css/main.3634c305.css",
-    "static/js/main.0a054073.js"
+    "static/js/main.ff03fdc1.js"
   ]
 }
