@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.3634c305.css",
-    "main.js": "/portfolio/static/js/main.477e78ce.js",
+    "main.css": "/portfolio/static/css/main.d2605e41.css",
+    "main.js": "/portfolio/static/js/main.56864861.js",
     "static/media/p_2.png": "/portfolio/static/media/p_2.e3a0c1d9f9024a81bf0a.png",
     "static/media/p_1.png": "/portfolio/static/media/p_1.c239501750e5266575d8.png",
     "static/media/CarLease.jpg": "/portfolio/static/media/CarLease.971a8f29e9c7096643a7.jpg",
@@ -10,11 +10,11 @@
     "static/media/Tips_Calculator.png": "/portfolio/static/media/Tips_Calculator.7d5fcea6161e4be5ae86.png",
     "static/media/react-240.png": "/portfolio/static/media/react-240.a735267992861f02c8f2.png",
     "index.html": "/portfolio/index.html",
-    "main.3634c305.css.map": "/portfolio/static/css/main.3634c305.css.map",
-    "main.477e78ce.js.map": "/portfolio/static/js/main.477e78ce.js.map"
+    "main.d2605e41.css.map": "/portfolio/static/css/main.d2605e41.css.map",
+    "main.56864861.js.map": "/portfolio/static/js/main.56864861.js.map"
   },
   "entrypoints": [
-    "static/css/main.3634c305.css",
-    "static/js/main.477e78ce.js"
+    "static/css/main.d2605e41.css",
+    "static/js/main.56864861.js"
   ]
 }
