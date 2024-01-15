@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.d2605e41.css",
-    "main.js": "/portfolio/static/js/main.56864861.js",
+    "main.js": "/portfolio/static/js/main.10a83111.js",
     "static/media/p_2.png": "/portfolio/static/media/p_2.e3a0c1d9f9024a81bf0a.png",
     "static/media/p_1.png": "/portfolio/static/media/p_1.c239501750e5266575d8.png",
     "static/media/CarLease.jpg": "/portfolio/static/media/CarLease.971a8f29e9c7096643a7.jpg",
     "static/media/bananas.png": "/portfolio/static/media/bananas.f929ef71449fc21a20ce.png",
     "static/media/gb2.png": "/portfolio/static/media/gb2.3200021efdbfe8e7ac2e.png",
+    "static/media/AirPods.jpg": "/portfolio/static/media/AirPods.be720e774a35023909dd.jpg",
     "static/media/Tips_Calculator.png": "/portfolio/static/media/Tips_Calculator.7d5fcea6161e4be5ae86.png",
     "static/media/react-240.png": "/portfolio/static/media/react-240.a735267992861f02c8f2.png",
     "index.html": "/portfolio/index.html",
     "main.d2605e41.css.map": "/portfolio/static/css/main.d2605e41.css.map",
-    "main.56864861.js.map": "/portfolio/static/js/main.56864861.js.map"
+    "main.10a83111.js.map": "/portfolio/static/js/main.10a83111.js.map"
   },
   "entrypoints": [
     "static/css/main.d2605e41.css",
-    "static/js/main.56864861.js"
+    "static/js/main.10a83111.js"
   ]
 }
