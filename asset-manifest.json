@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.d2605e41.css",
-    "main.js": "/portfolio/static/js/main.f2dcbdb3.js",
+    "main.css": "/portfolio/static/css/main.ef6b7619.css",
+    "main.js": "/portfolio/static/js/main.73372520.js",
     "static/media/p_2.png": "/portfolio/static/media/p_2.e3a0c1d9f9024a81bf0a.png",
+    "static/media/GuramTransparent.png": "/portfolio/static/media/GuramTransparent.8e1564cd2d001f45178d.png",
     "static/media/p_1.png": "/portfolio/static/media/p_1.c239501750e5266575d8.png",
     "static/media/Parallax.jpg": "/portfolio/static/media/Parallax.0f08bb55a7cda2350f5a.jpg",
     "static/media/CarLease.jpg": "/portfolio/static/media/CarLease.971a8f29e9c7096643a7.jpg",
-    "static/media/gb2.png": "/portfolio/static/media/gb2.3200021efdbfe8e7ac2e.png",
     "static/media/coffee1.jpg": "/portfolio/static/media/coffee1.911652d37dcc98e86b01.jpg",
     "static/media/AirPods.jpg": "/portfolio/static/media/AirPods.be720e774a35023909dd.jpg",
     "static/media/Indicator.jpg": "/portfolio/static/media/Indicator.9ed613aedd738300736f.jpg",
     "static/media/Tips_Calculator.png": "/portfolio/static/media/Tips_Calculator.7d5fcea6161e4be5ae86.png",
     "static/media/react-240.png": "/portfolio/static/media/react-240.a735267992861f02c8f2.png",
     "index.html": "/portfolio/index.html",
-    "main.d2605e41.css.map": "/portfolio/static/css/main.d2605e41.css.map",
-    "main.f2dcbdb3.js.map": "/portfolio/static/js/main.f2dcbdb3.js.map"
+    "main.ef6b7619.css.map": "/portfolio/static/css/main.ef6b7619.css.map",
+    "main.73372520.js.map": "/portfolio/static/js/main.73372520.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2605e41.css",
-    "static/js/main.f2dcbdb3.js"
+    "static/css/main.ef6b7619.css",
+    "static/js/main.73372520.js"
   ]
 }
